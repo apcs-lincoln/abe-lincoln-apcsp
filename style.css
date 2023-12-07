@@ -4,13 +4,17 @@ body {
   text-align: center;
 }
 
+ul {
+  text-align: center;
+}
+
 h1 {
   color: darkblue;
 }
 
 /* never clicked (visited) link */
 a {
-  color: white
+  color: black
 }
 
 /* clicked (visited) link */
